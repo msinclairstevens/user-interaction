@@ -5,3 +5,5 @@ In designing the user interface, we analyze the following elements:
 * the screen format design
 * the report format design
 * design consistency
+
+#Why is User Interface Important
